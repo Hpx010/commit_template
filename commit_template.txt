@@ -2,4 +2,4 @@ feat|fix|docs|test|(<scope>): <subject> #TASK_NAME
 <BLANK LINE>
 <body>
 <BLANK LINE>
-In Progress|Closes:[#TASK_NAME](http://)
+In 1Progress|Closes:[#TASK_NAME](http://)
